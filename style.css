@@ -523,6 +523,7 @@ main {
 
   .navbar2 {
     /* padding: 0px; */
-    width: 78px;
+    /* width: 78px; */
+    display: none;
   }
 }
